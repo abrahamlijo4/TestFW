@@ -1,0 +1,6 @@
+2019-07-28 21:58:25,272 [main] INFO MyFW - Start Execution
+2019-07-28 21:58:25,288 [main] INFO MyFW - Initiating Drivers
+2019-07-28 21:58:28,835 [main] INFO MyFW - Reading test case sheet
+2019-07-28 21:58:28,847 [main] INFO MyFW - Executing TC01:-Test case 1
+2019-07-28 21:58:34,319 [main] INFO MyFW - Chrome Browser Initialized
+2019-07-28 21:59:06,404 [main] INFO MyFW - End Execution
