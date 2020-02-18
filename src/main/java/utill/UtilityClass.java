@@ -52,8 +52,8 @@ public class UtilityClass extends Driver {
 	}
 
 	public void initializeScreenshotFolder() {
-		String execFolderName = "TestRun_" + dateFormat.format(new Date()) + "\\";
-		ssFolderPath = "C:\\Users\\" + userName + "\\Documents\\ExecutionScreenshot\\" + execFolderName;
+		String screenshotFolderName = "TestRun_" + dateFormat.format(new Date()) + "\\";
+		ssFolderPath = "C:\\Users\\" + userName + "\\Documents\\ExecutionScreenshot\\" + screenshotFolderName;
 		Path path = Paths.get(ssFolderPath);
 		if (!Files.exists(path)) {
 			try {
